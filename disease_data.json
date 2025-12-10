@@ -1,0 +1,32 @@
+{
+  "Healthy": {
+    "description": "You show no major symptoms of illness.",
+    "treatment": "No medication required. Maintain a healthy lifestyle.",
+    "precautions": [
+      "Exercise daily",
+      "Drink enough water",
+      "Eat balanced food"
+    ],
+    "severity": "None"
+  },
+  "ViralFever": {
+    "description": "Viral fever is caused by viral infection and includes high temperature and body pain.",
+    "treatment": "Paracetamol, rest, fluids.",
+    "precautions": [
+      "Drink warm fluids",
+      "Take proper rest",
+      "Avoid cold food"
+    ],
+    "severity": "Medium"
+  },
+  "Migraine": {
+    "description": "Migraine is a neurological condition causing severe headaches.",
+    "treatment": "Pain relievers, anti-migraine drugs.",
+    "precautions": [
+      "Avoid bright light",
+      "Maintain sleep routine",
+      "Manage stress"
+    ],
+    "severity": "Medium"
+  }
+}
